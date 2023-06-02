@@ -1,9 +1,6 @@
-li {
-  background-color: yellow;
-  border: 1px solid black;
+h1 {
+  font-family: Times;
+  border-bottom: 1px solid blue;
 }
 
-p {
-  color: red;
-}
 
