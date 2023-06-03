@@ -7,16 +7,7 @@ h1 {
 .wrapper {
   display: flex;
 }
-.skull img{
-  width: 100%;
-}
-.skull p {
+.wrapper p {
     text-align: center;
 }
 
-.ceasar img{
-  width: 100%;
-}
-.ceasar p {
-    text-align: center;
-}
