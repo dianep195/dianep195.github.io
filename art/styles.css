@@ -16,7 +16,20 @@ h1 {
   grid-row: 1;
 }
 
+.skull img{
+  width: 100%;
+}
+.skull p {
+    text-align: center;
+}
+
 .ceasar {
   grid-column: 1;
   grid-row: 1 / 3;
+}
+.ceasar img{
+  width: 100%;
+}
+.ceasar p {
+    text-align: center;
 }
