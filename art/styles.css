@@ -10,12 +10,6 @@ h1 {
   grid-template-rows: 100px 100px;
   gap: 10px;
 }
-
-.skull {
-  grid-column: 1;
-  grid-row: 1;
-}
-
 .skull img{
   width: 100%;
 }
@@ -23,10 +17,6 @@ h1 {
     text-align: center;
 }
 
-.ceasar {
-  grid-column: 2;
-  grid-row: 1 ;
-}
 .ceasar img{
   width: 100%;
 }
