@@ -1,9 +1,11 @@
-h1 {
-  font-family: Times;
+.header {
   border-bottom: 1px solid blue;
 }
 
-.header{
+.header img{
+  display: inline;
+}
+.header h1{
   display: inline;
 }
 
