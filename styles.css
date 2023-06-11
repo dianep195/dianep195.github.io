@@ -3,7 +3,7 @@ body {
   color: white;
 }
 
-h1,h2{
+h1{
   font-size:200%
 }
 
@@ -18,7 +18,17 @@ a:link{
 
 a:hover{
   text-decoration: none;
-  h1{
+}
+
+.redtext:hover{
     color: red;
   }
+  .greentext:hover{
+     color: green;
+  } 
+
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
 }
