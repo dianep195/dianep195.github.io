@@ -3,6 +3,10 @@ body {
   color: white;
 }
 
+main{
+  background: linear-gradient(black,red);
+}
+
 h1{
   font-size:200%
 }
