@@ -5,8 +5,8 @@ body {
 
 aside{
   float: left;
-  width:200px;
-  height:200px;
+  width:250px;
+  height:fixed;
   margin-right:30px;
   background: linear-gradient(black,red);
   background-repeat:no-repeat;
