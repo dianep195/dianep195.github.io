@@ -4,6 +4,10 @@ body {
 }
 
 aside{
+  float: left;
+  width:200px;
+  height:auto;
+  margin-right:30px;
   background: linear-gradient(black,red);
   background-repeat:no-repeat;
   background-attachment: fixed;
