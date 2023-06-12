@@ -6,7 +6,7 @@ body {
 aside{
   float: left;
   width:200px;
-  height:auto;
+  height:200px;
   margin-right:30px;
   background: linear-gradient(black,red);
   background-repeat:no-repeat;
