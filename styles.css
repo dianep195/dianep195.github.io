@@ -7,6 +7,7 @@ main{
   background: linear-gradient(black,red);
   background-repeat:no-repeat;
   background-attachment: fixed;
+  margin-bottom:0px;
 }
 
 h1{
