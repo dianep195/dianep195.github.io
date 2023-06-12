@@ -3,7 +3,7 @@ body {
   color: white;
 }
 
-main{
+aside{
   background: linear-gradient(black,red);
   background-repeat:no-repeat;
   background-attachment: fixed;
