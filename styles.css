@@ -6,11 +6,11 @@ body {
 aside{
   float: left;
   width:250px;
-  height:fixed;
+  height: auto;
   margin-right:30px;
   background: linear-gradient(black,red);
   background-repeat:no-repeat;
-  background-attachment: fixed;
+  background-attachment: local;
   margin-bottom:0px;
 }
 
