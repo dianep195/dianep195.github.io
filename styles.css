@@ -58,4 +58,8 @@ a:hover{
     text-align: center;
 }
 
+.wrapper img{
+  box-shadow: 5px,5px,5px, lime;
+}
+
 
