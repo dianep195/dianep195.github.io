@@ -10,8 +10,12 @@ header{
 }
 header img,h1{
           display: inline-block;
-          color: white;
+          margin-right:30px;
        }
+header h1{
+          color: white;
+          margin-bottom:50px;
+}
 
 aside{
   float: left;
@@ -59,7 +63,7 @@ a:hover{
 }
 
 .wrapper img{
-  box-shadow: 5px,5px,5px, green;
+  box-shadow: 5px,5px,0px, green;
 }
 
 
