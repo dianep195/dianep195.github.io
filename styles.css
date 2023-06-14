@@ -49,7 +49,7 @@ a:hover{
 .wrapper {
   display: flex;
   justify-content: space-around;
-  align-items: center;
+  text-align: center;
 }
 .wrapper p {
     text-align: center;
