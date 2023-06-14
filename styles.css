@@ -3,6 +3,10 @@ body {
   color: white;
 }
 
+header{
+       position: fixed;
+}
+
 aside{
   float: left;
   width:250px;
@@ -17,8 +21,6 @@ aside{
 h1{
   font-size:200%
 }
-
-
 
 
 
