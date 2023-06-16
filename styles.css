@@ -51,7 +51,7 @@ a:hover{
 
 .art {
   display: inline-block;
-  justify-content: space-around;
+  margin: 10px;
   text-align: center;
 }
 .art p,h3 {
