@@ -54,14 +54,11 @@ a:hover{
   justify-content: space-around;
   text-align: center;
 }
-.wrapper p {
-    text-align: center;
-}
-.wrapper h3{
+.art p,h3 {
     text-align: center;
 }
 
-.wrapper img{
+.art img{
   box-shadow: 5px,5px,0px, green;
 }
 
