@@ -48,6 +48,10 @@ a:hover{
   .greentext:hover{
      color: green;
   } 
+.bluetext:hover{
+     color: blue;
+  } 
+
 
 .art {
   display: inline-block;
