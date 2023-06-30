@@ -1,0 +1,34 @@
+#scoreLabel{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14pt;
+    color:navy;
+    font-weight: bold;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    height: 25px;
+}
+#pageTitle{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24pt;
+    color:navy;
+    font-weight: bold;
+    position: absolute;
+    top: 35px;
+    left: 10px;
+    height: 25px;
+}
+#gameArea{
+    position: absolute;
+    top: 75px; 
+    left: 10px;
+    border: 1px navy solid;
+}
+#dot{
+    position: absolute;
+    top: 25px;
+    left: 25px;
+    background-color: navy;
+    width: 64px;
+    height:64px;
+}
